@@ -19,6 +19,6 @@ export default ({postId}) => {
   });
 
   return <ul>
-    {renderedComments}
+    {renderedComments}  
   </ul>
 };
